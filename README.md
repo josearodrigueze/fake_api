@@ -1,2 +1,2 @@
-# fake_stores
+# fake_api
 Datos de prueba
