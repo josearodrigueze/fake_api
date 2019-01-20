@@ -1,7 +1,7 @@
 {   
     "stores":[
-        {"id": 1, "name": "Paris", "countryId": 1, "active": 1, "customer": 1},
-        {"id": 4, "name": "Falabella", "countryId": 1, "active": 1, "customer": 1},
-        {"id": 5, "name": "Ripley", "countryId": 1, "active": 1, "customer": 1}
-    ]
+        {"id": 1, "name": "Paris", "countryId": 1, "active": 1, "customer": 1}, 
+        {"id": 4, "name": "Falabella", "countryId": 1, "active": 1, "customer": 1}, 
+        {"id": 5, "name": "Ripley", "countryId": 1, "active": 1, "customer": 1} 
+    ] 
 }
